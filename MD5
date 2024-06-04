@@ -1,6 +1,6 @@
-62e1683315a6bc02d04814101181491d *DESCRIPTION
+2e037ccb8f35dba445a757f5e2c31cca *DESCRIPTION
 9b661de98b039d33771502f94225fee1 *NAMESPACE
-92267daefa71213987d5af705cdec34f *NEWS.md
+cf03f613e4054634cfc690280fb551f3 *NEWS.md
 079615884955d968fbe0a7247c7b4b13 *R/RcppExports.R
 cef24ab589b7e007ad64158b5d71fed3 *R/bezier.R
 1d2003d9813ba361ea3949b5d5432592 *R/distance_transforms.R
@@ -28,7 +28,7 @@ c0940b15ee5978e175ac071df6f4a2ed *data/kreadmean.rda
 102287856d8de9522ea8aca30f92c8fc *data/pooledsimilarity.rda
 0adb25ced89248b755b3c4da933607f9 *inst/doc/kanjistat.R
 c7a76184e7af9ae9f6e547e6e4e53112 *inst/doc/kanjistat.Rmd
-1524a39daa194ce4e56b72605d26fa79 *inst/doc/kanjistat.html
+d97989ffa586df033eebde835e77b9ca *inst/doc/kanjistat.html
 bf853de5115a041d648f0ddf1b3db2af *man/cjk_escape.Rd
 f0358f8bfb8f1e06e7b27df11f13bed1 *man/codepoint.Rd
 08422dae09a6c2cd06bbc869779e78ec *man/compare_neighborhoods.Rd
@@ -73,6 +73,7 @@ a657838ae875c912d38160ce3ab9ec77 *man/kmatdistmat.Rd
 153ab9c8a4f4f45fd7a3dd98d57dfe85 *src/bezier.cpp
 7f861a6d19a788950087d46010c3abf6 *src/matchclouds.cpp
 de1e40a97eb0d0e9642f92af1e287b31 *tests/testthat.R
+04eb3eebc7961b1c457b519bc049c0a9 *tests/testthat/Rplots.pdf
 6ed0949b237cc042c8312b859fa47b85 *tests/testthat/_data_and_more_snaps/085e4.svg
 a9d4f1af0f44aea684a682bd3962bf24 *tests/testthat/_data_and_more_snaps/090f5.svg
 eb7ff510109366ac697f263c6a101a56 *tests/testthat/_data_and_more_snaps/kanjidic2-2023-365_ichihagi.xml
@@ -90,12 +91,12 @@ d5744720aef88ccb9cfbb3b5807e2ebd *tests/testthat/_snaps/kanjivec/fuji_dend.jpg
 c3e509d4a8b5f4f1dbc50b25cf85401d *tests/testthat/_snaps/kanjivec/fuji_kanji.jpg
 98de483784595f0e56b52d7230527480 *tests/testthat/helper.R
 b95fd625640cf82fb608608942a63ff2 *tests/testthat/test-bezier.R
-da2472fdc8a15c2dab672ed6b11f4122 *tests/testthat/test-kanji1.R
+d6b2db63f8ade0596dba400567df41e5 *tests/testthat/test-kanji1.R
 495ee16fb60a76f20feb88476d1ee78b *tests/testthat/test-kanji2.R
 a042178e97efd78336e5cf6e84f08e6c *tests/testthat/test-kanjimat.R
 42a7d014373b7b19fcb120bca67fa5b7 *tests/testthat/test-kanjivec.R
 af984e9003dfadda9827a85e7db5bd3f *tests/testthat/test-read_kanjidic2.R
-a7b06b60dc52430390e38d497e25a27b *tests/testthat/test-stroke_edit_distance.R
+266b8198c7815a6dda2c6fbf37c6c623 *tests/testthat/test-stroke_edit_distance.R
 33f5a48d53b29313d050a46165737ec5 *tests/testthat/test-utilities.R
 85514d7dcdc760dddc9c7119fdefe157 *vignettes/figures/four_cats.png
 365d06d0a10a8cbcbd61b0edad89b87d *vignettes/figures/fuji.png
