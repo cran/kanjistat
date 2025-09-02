@@ -1,3 +1,9 @@
+# kanjistat 0.14.2 (development version)
+
+* CRAN maintenance update. 
+
+-------------------------------
+
 # kanjistat 0.14.1 (2024-05-30)
 
 ## Bug fixes

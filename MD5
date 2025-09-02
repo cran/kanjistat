@@ -1,6 +1,6 @@
-2e037ccb8f35dba445a757f5e2c31cca *DESCRIPTION
+a57017d0d22fa84f282a086c37581b1f *DESCRIPTION
 9b661de98b039d33771502f94225fee1 *NAMESPACE
-cf03f613e4054634cfc690280fb551f3 *NEWS.md
+9b7ef515a5cf8185c3cfb5c3e0e865c9 *NEWS.md
 079615884955d968fbe0a7247c7b4b13 *R/RcppExports.R
 cef24ab589b7e007ad64158b5d71fed3 *R/bezier.R
 1d2003d9813ba361ea3949b5d5432592 *R/distance_transforms.R
@@ -9,15 +9,15 @@ a5108811137c41d3ed90cc36557c656c *R/kanji1.R
 ad5835090e3891780be41d470244c4dd *R/kanji_neighborhoods.R
 8a511143df076903c25df49adc8559e6 *R/kanjimat.R
 ca61cc8e10d2c8a1983048da74385db8 *R/kanjistat-package.R
-f68b5aedb8c59fda5b8e3855a8fed655 *R/kanjivec.R
+55bc68801ab44ab2e7ba8aeeca54d548 *R/kanjivec.R
 0b27fb9b8fd1501af9c3c3f34acdfcc1 *R/read_kanjidic2.R
 447e958dc136b59904d1278fb4eb713c *R/stroke_edit_distance.R
 acab6055d5db852a67324d159a1df157 *R/svgparser_lite.R
 8c4ed04dd6f59508f65fe164dfc9be01 *R/utilities.R
 fc87b41e829293fd79ac6bd05a38c51c *R/zzz.R
-4c85e721d599e9fac0b96575dd9c720a *README.md
-f61db891eb928123aba4412ca322f508 *build/partial.rdb
-f3a1005e4ec9978ab82b920759d57c3f *build/vignette.rds
+b59647b6cbeae7ba9a7e64247ed2b914 *README.md
+1bf18d9c216b8d95033f0bd2fe2906b2 *build/partial.rdb
+3df4612b5259661fbeb99f2e58f3dcc8 *build/vignette.rds
 44d4f7187d1fd18ccbe3d009da709af3 *data/dstrokedit.rda
 5af417f962ea7c26866469b979635454 *data/dyehli.rda
 d16426335f08df226107a931949b0fda *data/fivebetas.rda
@@ -26,9 +26,9 @@ d16426335f08df226107a931949b0fda *data/fivebetas.rda
 a20899740173fcd6ac92358430ceac1f *data/kmorph.rda
 c0940b15ee5978e175ac071df6f4a2ed *data/kreadmean.rda
 102287856d8de9522ea8aca30f92c8fc *data/pooledsimilarity.rda
-0adb25ced89248b755b3c4da933607f9 *inst/doc/kanjistat.R
+6576b19b07866025bbd1af6521e6232d *inst/doc/kanjistat.R
 c7a76184e7af9ae9f6e547e6e4e53112 *inst/doc/kanjistat.Rmd
-d97989ffa586df033eebde835e77b9ca *inst/doc/kanjistat.html
+c28d9c2ff86ac457714a35f45004f570 *inst/doc/kanjistat.html
 bf853de5115a041d648f0ddf1b3db2af *man/cjk_escape.Rd
 f0358f8bfb8f1e06e7b27df11f13bed1 *man/codepoint.Rd
 08422dae09a6c2cd06bbc869779e78ec *man/compare_neighborhoods.Rd
@@ -54,7 +54,7 @@ acd228b29f8a8920e671a2b5a6a62b65 *man/kanjidata.Rd
 cfa7998d18dcbd5fb885412fcd649059 *man/kanjidist.Rd
 e9431005d8f4b4bbf78b51f9c3805b37 *man/kanjidistmat.Rd
 668b087bb362810e5ed6e3f6edde4783 *man/kanjimat.Rd
-790abe20bc223cd9e838c622a3925e5f *man/kanjivec.Rd
+99b1ffc6e7287515720123cd9e3e98a2 *man/kanjivec.Rd
 20fbe150f474bb027306fa4041b2e4f9 *man/kmatdist.Rd
 a657838ae875c912d38160ce3ab9ec77 *man/kmatdistmat.Rd
 0c406d47e6ce96ea6db950d28b013569 *man/kreadmean.Rd
@@ -73,7 +73,6 @@ a657838ae875c912d38160ce3ab9ec77 *man/kmatdistmat.Rd
 153ab9c8a4f4f45fd7a3dd98d57dfe85 *src/bezier.cpp
 7f861a6d19a788950087d46010c3abf6 *src/matchclouds.cpp
 de1e40a97eb0d0e9642f92af1e287b31 *tests/testthat.R
-04eb3eebc7961b1c457b519bc049c0a9 *tests/testthat/Rplots.pdf
 6ed0949b237cc042c8312b859fa47b85 *tests/testthat/_data_and_more_snaps/085e4.svg
 a9d4f1af0f44aea684a682bd3962bf24 *tests/testthat/_data_and_more_snaps/090f5.svg
 eb7ff510109366ac697f263c6a101a56 *tests/testthat/_data_and_more_snaps/kanjidic2-2023-365_ichihagi.xml
